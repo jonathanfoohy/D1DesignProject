@@ -1,0 +1,36 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/
+vfir
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1700654756
+!i10b 1
+!s100 ZjRiIDCBkXSk=B:1f;j[=1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I``T][zmE]]IXEC2o]>BWS2
+VDg1SIo80bB@j0V0VzS_@n1
+S1
+dC:/Users/Jonathan Foo/Downloads/D1/D1DesignProject/Extended
+w1700654671
+8C:/Users/Jonathan Foo/Downloads/D1/D1DesignProject/Extended/fir.sv
+FC:/Users/Jonathan Foo/Downloads/D1/D1DesignProject/Extended/fir.sv
+!i122 0
+L0 3 113
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1700654756.000000
+!s107 C:/Users/Jonathan Foo/Downloads/D1/D1DesignProject/Extended/fir.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Jonathan Foo/Downloads/D1/D1DesignProject/Extended/fir.sv|
+!i113 1
+o-work work -sv
+tCvgOpt 0
